@@ -1,4 +1,4 @@
-# TITLE--DIceGame App
+# TITLE--DiceGame App
 
 ## OVERVIEW--
 This is a mobile app made with flutter which generates random dice numbers on click.Can be used as a substitute for any physical game which requires a dice.
