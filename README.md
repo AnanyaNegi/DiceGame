@@ -9,7 +9,7 @@ Imported--
 * MaterialUI Library
 * Dart Math Library
 
-## SCREENSHOT--
+## SCREENSHOTS--
 ![asa](https://user-images.githubusercontent.com/54092197/90314506-ec5b0100-df31-11ea-8aa1-38f87aa81d48.jpg)
 ![asasasa](https://user-images.githubusercontent.com/54092197/90314509-ef55f180-df31-11ea-9511-33fdb882d9a3.jpg)
 
